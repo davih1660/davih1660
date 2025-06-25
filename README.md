@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="URL_DA_SUA_IMAGEM_AQUI" width="800px" />
+  <img src="foto.jpg" width="800px" />
 </div>
 
 <div align="center">
@@ -8,9 +8,9 @@
 
 ### 👨‍💻 Sobre Mim
 <p>
-  [cite_start]Desenvolvedor de Software com foco em Java e estudante de Tecnologia em Sistemas para Internet no IFB[cite: 6]. Sou apaixonado por transformar desafios complexos em soluções de software eficientes e inovadoras.
+  Desenvolvedor de Software com foco em Java e estudante de Tecnologia em Sistemas para Internet no IFB. Sou apaixonado por transformar desafios complexos em soluções de software eficientes e inovadoras.
 <br><br>
-  [cite_start]Atualmente, como <b>Estagiário de Desenvolvimento Java</b> na Mirante Tecnologia[cite: 2], estou imerso na construção de aplicativos Web e no ecossistema Java. [cite_start]Minha trajetória inclui experiências práticas em <b>análise de requisitos</b> com metodologias ágeis (Scrum) [cite: 5][cite_start], desenvolvimento mobile com <b>Flutter</b> na empresa júnior Coda+ [cite: 5][cite_start], e análise de dados com <b>Python</b> e <b>SQL</b>. [cite: 7]
+  Atualmente, como <b>Estagiário de Desenvolvimento Java</b> na Mirante Tecnologia, estou imerso na construção de aplicativos Web e no ecossistema Java. Minha trajetória inclui experiências práticas em <b>análise de requisitos</b> com metodologias ágeis (Scrum), desenvolvimento mobile com <b>Flutter</b> na empresa júnior Coda+, e análise de dados com <b>Python</b> e <b>SQL</b>.
 <br><br>
   Estou sempre em busca de novos desafios e oportunidades para aprender e colaborar!
 </p>
