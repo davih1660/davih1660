@@ -1,16 +1,47 @@
-## Hi there 👋
+<div align="center">
+  <img src="URL_DA_SUA_IMAGEM_AQUI" width="800px" />
+</div>
 
-<!--
-**davih1660/davih1660** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <h1>Olá, eu sou o Davi Cruz! 👋</h1>
+</div>
 
-Here are some ideas to get you started:
+### 👨‍💻 Sobre Mim
+<p>
+  [cite_start]Desenvolvedor de Software com foco em Java e estudante de Tecnologia em Sistemas para Internet no IFB[cite: 6]. Sou apaixonado por transformar desafios complexos em soluções de software eficientes e inovadoras.
+<br><br>
+  [cite_start]Atualmente, como <b>Estagiário de Desenvolvimento Java</b> na Mirante Tecnologia[cite: 2], estou imerso na construção de aplicativos Web e no ecossistema Java. [cite_start]Minha trajetória inclui experiências práticas em <b>análise de requisitos</b> com metodologias ágeis (Scrum) [cite: 5][cite_start], desenvolvimento mobile com <b>Flutter</b> na empresa júnior Coda+ [cite: 5][cite_start], e análise de dados com <b>Python</b> e <b>SQL</b>. [cite: 7]
+<br><br>
+  Estou sempre em busca de novos desafios e oportunidades para aprender e colaborar!
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 Tecnologias e Ferramentas
+<p align="center">
+  <a href="#"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Scrum-0078D4?style=for-the-badge&logo=azuredevops&logoColor=white" /></a>
+</p>
+
+---
+
+### 📊 Minhas Estatísticas no GitHub
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=davih1660&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davih1660&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+
+---
+
+### 📫 Conecte-se Comigo
+<p align="center">
+<a href="https://linkedin.com/in/davihmcruz/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:davihm.cruz@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
